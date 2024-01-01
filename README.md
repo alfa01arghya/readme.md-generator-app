@@ -1,10 +1,10 @@
 <p align="center">
 <img src="./public/logo.png" alt="logo" width="150">
-<h1 align="center"> README.md Generator App </h1>
+<h1 align="center"> README.md Generator </h1>
 </p>
 
 <div align="center">
-<img src="https://img.shields.io/badge/License-MIT-green.svg"/>
+<img src="https://img.shields.io/badge/License-GPL3.0-green.svg"/>
 <img src="https://img.shields.io/npm/v/npm.svg?logo=nodedotjs"/>
 </div>
 
@@ -12,7 +12,7 @@
 
 </div>
 
-### Tech Used
+### Tech Used 💻
 
 ![Vite](https://img.shields.io/badge/vite-%2320232a.svg?style=for-the-badge&logo=vite)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -64,18 +64,24 @@
 
 #
 
-### Join Here to Discuss
+### License 🪪
+
+[GPT-3.0](LICENSE)
+
+#
+
+### Author ✍🏽
+
+#### [Arghya Das](https://github.com/alfaArghya)
+
+#
+
+### Join Here to Discuss 🗣️
 
 [![Doscord](https://img.shields.io/badge/Discord-%2320232a.svg?style=normal&logo=Discord)](https://discord.gg/JHhjXCVJmq)
 
 #
 
-### Author
-
-- [Arghya Das](https://github.com/alfaArghya)
-
-#
-
-### Connect Here
+### Connect Here 🌐
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=normal&logo=linkedIn&logoColor=white)](https://linkedin.com/in/alfaarghya)
