@@ -64,14 +64,18 @@
 
 #
 
+### Join Here to Discuss
+
+[![Doscord](https://img.shields.io/badge/Discord-%2320232a.svg?style=normal&logo=Discord)](https://discord.gg/JHhjXCVJmq)
+
+#
+
 ### Author
 
-- [@alfaarghya](https://github.com/alfaArghya)
+- [Arghya Das](https://github.com/alfaArghya)
 
 #
 
 ### Connect Here
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=normal&logo=linkedIn&logoColor=white)](https://linkedin.com/in/alfaarghya)
-
-<!-- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=normal&logo=Twitter&logoColor=white)](https://twitter.com/alfa_arghya) -->
