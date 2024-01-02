@@ -14,7 +14,7 @@
 
 ### Tech Used 💻
 
-![Vite](https://img.shields.io/badge/vite-%2320232a.svg?style=for-the-badge&logo=vite)
+![Next](https://img.shields.io/badge/Next.js-%2320232a.svg?style=for-the-badge&logo=next.js)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2320232a.svg?style=for-the-badge&logo=tailwind-css&logoColor=%2361DAFB)
